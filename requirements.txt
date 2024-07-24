@@ -1,1 +1,1 @@
-cumulus-message-adapter-python @ git+https://github.com/mckadesorensen/cumulus-message-adapter@e3f43a3117dbd64f528a05a68cd4d93cc4f46ab0
+cumulus-message-adapter @ git+https://github.com/mckadesorensen/cumulus-message-adapter@e3f43a3117dbd64f528a05a68cd4d93cc4f46ab0
